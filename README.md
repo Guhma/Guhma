@@ -6,6 +6,6 @@
 - 💬 Ask me about HTML5, CSS3 and JavaScript
 - 📫 How to reach me: gustavoalmeida123490@gmail.com
 
-<img src="https://media1.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="500" height="500" />
+<img src="https://media1.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="450" height="450" />
 
                                                                         
