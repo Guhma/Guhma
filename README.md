@@ -7,9 +7,10 @@
 - 📫 How to reach me: gustavoalmeida123490@gmail.com
 
 <img src="https://media1.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="350" height="350" align="center" />
-
+<p align="center">
 <a href="https://www.linkedin.com/in/gustavo-henrique-martins-de-almeida-0239521b8/">
  <img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG32.png" width="50px" height="50px">
 </a>
+ </p>
 
                                                                         
