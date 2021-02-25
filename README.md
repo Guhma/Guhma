@@ -1,5 +1,5 @@
 
- <h1>Hi there 👋, I'm Gustavo Almeida.</h1>
+ <h1>Hi there! 👋, I'm Gustavo Almeida.</h1>
  
  I'm always coding and always looking for learn new technologies.
  Welcome!
