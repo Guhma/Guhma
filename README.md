@@ -1,5 +1,8 @@
 
  <h1>Hi there 👋, I'm Gustavo Almeida.</h1>
+ 
+ I'm always coding and always looking for learn new technologies.
+ Welcome!
 
 - 🔭 I’m currently working on my knowledge
 - 🌱 I’m currently learning React, Node, Next.js
