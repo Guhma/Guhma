@@ -8,6 +8,8 @@
 
 <img src="https://media1.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="350" height="350" align="center" />
 
-<a align="center" href="https://www.linkedin.com/in/gustavo-henrique-martins-de-almeida-0239521b8/"><img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG32.png" width="50px" height="50px" /></a>
+<a href="https://www.linkedin.com/in/gustavo-henrique-martins-de-almeida-0239521b8/">
+ <img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG32.png" width="50px" height="50px">
+</a>
 
                                                                         
