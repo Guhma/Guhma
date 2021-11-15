@@ -10,6 +10,7 @@
 <h1>📫 How to reach me:</h1>
 <a href="https://www.linkedin.com/in/guhma/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+
  
 **Languages and Tools:** 
 
@@ -23,6 +24,7 @@
 ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
 
 ![Gustavo Almeida's Github Stats](https://github-readme-stats.vercel.app/api?username=Guhma&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guhma&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Guhma.Guhma)
