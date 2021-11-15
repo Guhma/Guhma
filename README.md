@@ -8,9 +8,9 @@
 - 🌱 I’m currently learning React, Node, Next.js
 - 💬 Ask me about HTML5, CSS3 and JavaScript
 <h1>📫 How to reach me:</h1>
-<a href="https://www.linkedin.com/in/guhma/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/guhma/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<a href="mailto:gustavoalmeida123490@gmail.com"<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:gustavoalmeida123490@gmail.com"<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 
  
