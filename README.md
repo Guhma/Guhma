@@ -26,7 +26,7 @@
 
 <h1>📈 My Statistics</h1>
 
-![Gustavo Almeida's Github Stats](https://github-readme-stats.vercel.app/api?username=Guhma&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord)
+![Gustavo Almeida's Github Stats](https://github-readme-stats.vercel.app/api?username=Guhma&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue-green)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guhma&theme=blue-green)
 
