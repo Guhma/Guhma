@@ -7,7 +7,10 @@
 - 🔭 I’m currently working on my knowledge
 - 🌱 I’m currently learning React, Node, Next.js
 - 💬 Ask me about HTML5, CSS3 and JavaScript
-- 📫 How to reach me: gustavoalmeida123490@gmail.com
+<h1>📫 How to reach me:</h1>
+[![Linkedin Badge](https://img.shields.io/badge/-Guhma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guhma/)](https://www.linkedin.com/in/guhma/)
+[![GitHub followers](https://img.shields.io/github/followers/Guhma?label=Follow&style=social)](https://github.com/Guhma/?tab=follow)
+[![Gmail Badge](https://img.shields.io/badge/-gustavoalmeida123490@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavoalmeida123490@gmail.com)](mailto:gustavoalmeida123490@gmail.com)
  
 **Languages and Tools:** 
 
@@ -20,7 +23,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
 
-![Gustavo Almeida's Github Stats](https://github-readme-stats.vercel.app/api?username=Guhma&count_private=true&show_icons=true&include_all_commits=true)
+![Gustavo Almeida's Github Stats](https://github-readme-stats.vercel.app/api?username=Guhma&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guhma&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Guhma.Guhma)
