@@ -30,5 +30,5 @@
 ![Gustavo Almeida's Github Stats](https://github-readme-stats.vercel.app/api?username=Guhma&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guhma&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Guhma.Guhma)
                                                                         
