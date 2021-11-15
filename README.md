@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning React, Node, Next.js
 - 💬 Ask me about HTML5, CSS3 and JavaScript
 <h1>📫 How to reach me:</h1>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/guhma/"/>
+<a href="https://www.linkedin.com/in/guhma/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
  
 **Languages and Tools:** 
