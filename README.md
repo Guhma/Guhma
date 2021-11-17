@@ -36,7 +36,7 @@ Sobre mim:
 
 ![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Guhma&layout=compact&theme=dracula)
  
-<a align="center" href="https://github-readme-stats.vercel.app/api/wakatime?username=Guhma"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Guhma&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Guhma&theme=gruvbox" />  
 </a>
 
 
