@@ -1,5 +1,6 @@
 
  <h1>Hi there! 👋, I'm Gustavo Almeida.</h1>
+ <img align="right" alt="GIF" src="https://media3.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47fip9pqjyfbbna7ldepyzlwgal10f98ohvj363z5j&rid=giphy.gif&ct=g" width="400"/>
  
  I'm always coding and always looking for learn new technologies.
  Welcome!
