@@ -36,7 +36,7 @@
 
 ![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Guhma&layout=compact&theme=dracula)
  
-[![Gustavo Almeidas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Guhma)](https://github.com/anuraghazra/github-readme-stats)
+[![Gustavo Almeidas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Guhma)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Guhma.Guhma)
