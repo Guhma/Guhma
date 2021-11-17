@@ -1,5 +1,5 @@
 
- <h1>Hi there! 👋, I'm Gustavo Almeida.</h1>
+ <h1>Hi there! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">, I'm Gustavo Almeida.</h1>
  <img align="right" alt="GIF" src="https://media3.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47fip9pqjyfbbna7ldepyzlwgal10f98ohvj363z5j&rid=giphy.gif&ct=g" width="400"/>
  
  I'm always coding and always looking for learn new technologies.
@@ -35,6 +35,8 @@
 ![Gustavo Almeida's Github Stats](https://github-readme-stats.vercel.app/api?username=Guhma&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Guhma&layout=compact&theme=dracula)
+ 
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Guhma&layout=compact&theme=radical)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Guhma.Guhma)
                                                                         
