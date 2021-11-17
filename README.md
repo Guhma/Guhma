@@ -1,20 +1,20 @@
 
- <h1>Hi there! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">, I'm Gustavo Almeida.</h1>
+ <h1>Hello World!, Eu sou o Gustavo Almeida. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h1>
  <img align="right" alt="GIF" src="https://media3.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47fip9pqjyfbbna7ldepyzlwgal10f98ohvj363z5j&rid=giphy.gif&ct=g" width="400"/>
  
- I'm always coding and always looking for learn new technologies.
- Welcome!
-
-- 🔭 I’m currently working on my knowledge
-- 🌱 I’m currently learning React, Node, Next.js
-- 💬 Ask me about HTML5, CSS3 and JavaScript
-<h1>📫 How to reach me:</h1>
+Sobre mim:
+- 📍 Sou de Jundaí, São Paulo;
+- 💬 Adoro conhecer novas pessoas e conversar;
+- 🔭 Atualmente estou focando meus estudos em JavaScript e seus frameworks ReactJS e NodeJS;
+- 🎓 Sou técnico de Informática para Internet pela Etec Vasco Antônio Venchiarutti em Jundiaí;
+- 💼 Estou em busca de oportunidades no mercado, novos aprendizados e experiências;
+- 👨‍💻 Estou sempre codando e me desenvolvendo;
+- 
+<h1>🌐 Vamos conversar!</h1>
 <a href="https://www.linkedin.com/in/guhma/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:gustavoalmeida123490@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-
- 
-<h1>💻**Languages and Tools:**<h1> 
+<h1>💻**Linguagens e Ferramentas que utilizo:**<h1> 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;
@@ -30,7 +30,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;&nbsp;
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;&nbsp;
 
-<h1>📈 My Statistics</h1>
+<h1>📈 Minhas estatísticas</h1>
 
 ![Gustavo Almeida's Github Stats](https://github-readme-stats.vercel.app/api?username=Guhma&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula)
 
@@ -40,4 +40,6 @@
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Guhma.Guhma)
+ 
+#FeitoComAmor 🖤
                                                                         
