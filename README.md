@@ -8,7 +8,7 @@ Sobre mim:
 - 🔭 Atualmente estou focando meus estudos em JavaScript e seus frameworks ReactJS e NodeJS;
 - 🎓 Sou técnico de Informática para Internet pela Etec Vasco Antônio Venchiarutti em Jundiaí;
 - 💼 Estou em busca de oportunidades no mercado, novos aprendizados e experiências;
-- 👨‍💻 Estou sempre codando e me desenvolvendo;
+- 👨‍💻 Estou sempre codando e me desenvolvendo.
 
 <h1>🌐 Vamos conversar!</h1>
 <a href="https://www.linkedin.com/in/guhma/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
