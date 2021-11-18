@@ -33,11 +33,11 @@ Sobre mim:
 <h1>📈 Minhas estatísticas</h1>
 
 ![Gustavo Almeida's Github Stats](https://github-readme-stats.vercel.app/api?username=Guhma&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula)
-
 ![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Guhma&layout=compact&theme=dracula)
  
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Guhma&theme=dracula"/>  
 
+![Snake animation](https://github.com/talisilva/talisilva/blob/output/github-contribution-grid-snake.svg)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Guhma.Guhma)
  
