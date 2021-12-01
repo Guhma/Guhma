@@ -5,7 +5,7 @@
 Sobre mim:
 - 📍 Sou de Jundaí, São Paulo;
 - 💬 Adoro conhecer novas pessoas e conversar;
-- 🔭 Atualmente estou focando meus estudos em JavaScript e seus frameworks ReactJS e NodeJS;
+- 🔭 Atualmente estou focando meus estudos em JavaScript, Node e seus frameworks ReactJS, React Native;
 - 🎓 Sou técnico de Informática para Internet pela Etec Vasco Antônio Venchiarutti em Jundiaí;
 - 💼 Estou em busca de oportunidades no mercado, novos aprendizados e experiências;
 - 👨‍💻 Estou sempre codando e me desenvolvendo.
