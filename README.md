@@ -6,7 +6,7 @@ Sobre mim:
 - 📍 Sou de Jundaí, São Paulo;
 - 💬 Adoro conhecer novas pessoas e conversar;
 - 🔭 Atualmente estou cursando Engenharia Elétrica na Universidade Federal de Itajubá (UNIFEI);
-- 🎓 Sou técnico de Informática para Internet pela Etec Vasco Antônio Venchiarutti em Jundiaí;
+- 🎓 Sou técnico de Informática pela Etec Vasco Antônio Venchiarutti em Jundiaí;
 - 👨‍💻 Estou sempre me desenvolvendo.
 
 <h1>🌐 Vamos conversar!</h1>
