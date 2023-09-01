@@ -5,13 +5,11 @@
 Sobre mim:
 - 📍 Sou de Jundaí, São Paulo;
 - 💬 Adoro conhecer novas pessoas e conversar;
-- 🔭 Atualmente estou focando meus estudos em JavaScript, Node e seus frameworks ReactJS, React Native;
+- 🔭 Atualmente estou cursando Engenharia Elétrica na Universidade Federal de Itajubá (UNIFEI);
 - 🎓 Sou técnico de Informática para Internet pela Etec Vasco Antônio Venchiarutti em Jundiaí;
-- 💼 Estou em busca de oportunidades no mercado, novos aprendizados e experiências;
-- 👨‍💻 Estou sempre codando e me desenvolvendo.
+- 👨‍💻 Estou sempre me desenvolvendo.
 
 <h1>🌐 Vamos conversar!</h1>
-<a href="https://www.linkedin.com/in/guhma/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:gustavoalmeida123490@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <h1>💻**Linguagens e Ferramentas que utilizo:**<h1> 
